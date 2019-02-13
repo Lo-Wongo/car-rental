@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Lomoro Moses Manase",
+        "phone": 5155284170,
+        "address": "9523 University Avenue, Apt #1"
+    },
+    {
+        "id": 2,
+        "name": "Martu Mansaray",
+        "phone": 5155251771,
+        "address": "2215 E 40th Ct"
+    },
+    {
+        "id": 3,
+        "name": "Grace Opia Yanga",
+        "phone": 5153265763,
+        "address": "9523 University Avenue, Apt #1"
+    }
+]
